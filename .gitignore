@@ -1,0 +1,64 @@
+# Node modules
+node_modules/
+
+# Dist folder
+dist/
+
+# Local environment files
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+temp/
+out/
+
+# Coverage directory
+coverage/
+
+# Typescript compiled files
+*.tsbuildinfo
+
+# IDE config files
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Vue files and generated assets
+*.cache
+*.local
+public/assets/
+
+# Yarn & PM files
+.pnpm-debug.log*
+.yarn-integrity
+.yarn-cache/
+
+# Prettier files
+.prettierignore
+.prettiercache
