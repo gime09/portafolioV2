@@ -10,9 +10,10 @@ fechaColor.value = [
   {color: '#4CADAD'}
 ];
 /*Esta es la forma de utilizar el arreglo, sin el metodo value*/
+
 const educacion = ref([
   
-{fecha: '2024/En proceso', title: 'Tecnicatura Universitaria en Programación', descripcion: 'UTN Facultad Regional San Rafael', enlace:'https://www.frsr.utn.edu.ar/'},
+  {fecha: '2024/En proceso', title: 'Tecnicatura Universitaria en Programación', descripcion: 'UTN Facultad Regional San Rafael', enlace:'https://www.frsr.utn.edu.ar/'},
   {fecha: 'Año de Inicio 2024/Fin:2024', title: 'Análisis Funcional', descripcion: 'Curso de Análisis Funcional impartido por EducacionIT', enlace:'https://www.educacionit.com/perfil/gimena-gauna-776771/certificado/73349'},
   {fecha: 'Año de Inicio/Fin:2024 ', title: 'Testing de Webservice con SOAP UI', descripcion: 'Curso de Testing de Webservice con SOAP UI impartido por EducacionIT', enlace:'https://www.educacionit.com/perfil/gimena-gauna-776771/certificado/68414'},
   {fecha: 'Año de Inicio/Fin:2023 ', title: 'Testing Avanzado', descripcion: 'Curso de Testing avanzado del trayecto formativo Testing de la Universidad Tecnológica Nacional en el marco de Argentina Programa 4.0', enlace:'https://www.linkedin.com/in/gimena-gauna-08925a197/details/education/1635552333187/single-media-viewer/?profileId=ACoAAC4iIOkBXpdu1isbvf_r-mqKKLitGhBHng4'},
@@ -23,7 +24,7 @@ const educacion = ref([
   {fecha: 'Año de Inicio/Fin:2023 ', title: 'Programando en Java', descripcion: 'Trayecto "Programador Java Full Stack", en la Universidad de La Punta, en el marco de Argentina Programa 4.0. San Luis', enlace:'https://drive.google.com/file/d/1INvINTF7ySjzFH4oOIZHtxKy1cS9ILcj/view'},
   {fecha: 'Año de Inicio/Fin: 2023 ',title: 'Introducción a la Programación', descripcion: '1° tramo "Introducción a la Programación", del trayecto formativo Programación Full Stack de la Universidad de La Punta, en el marco del plan Argentina Programa 4.0', enlace:'https://drive.google.com/file/d/1f2U9yV1i80K47-T8mcjqWEgOhfSklTwR/view'},
   {fecha: 'Año de Inicio/Fin: 2023', title: 'Introducción a las Bases de Datos Relacionales (Con MySQL)', descripcion: 'Curso de Introducción a las Bases de Datos Relacionales (Con MySQL) Impartido por TodoCode', enlace:'https://todocodeacademy.com/certificate/dyt/'},
-  {fecha: 'Año de Inicio/Fin:2019 ', title: 'Diplomado en Gestión de Proyectos Informáticos ', descripcion: 'Diplomado en Gestión de Proyectos Informáticos impartido por el Instituto Profesional IAAC. El diplomado consta de un total de 180 horas cronológicas', enlace:'https://www.linkedin.com/in/gimena-gauna-08925a197/details/education/1635534929034/single-media-viewer/?profileId=ACoAAC4iIOkBXpdu1isbvf_r-mqKKLitGhBHng4'},
+  {fecha: 'Año de Inicio/Fin:2019 ', title: 'Diplomado en Gestión de Proyectos Informáticos ', descripcion: 'Diplomado en Gestión de Proyectos Informáticos impartido por el Instituto Profesional IAAC. El diplomado consta de un total de 180 horas cronológicas', enlace:'https://www.linkedin.com/in/gimena-gauna-08925a197/details/education/1635534929034/single-media-viewer/?profileId=ACoAAC4iIOkBXpdu1isbvf_r-mqKKLitGhBHng4'}
   
 
 ]);
